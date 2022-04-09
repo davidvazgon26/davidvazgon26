@@ -11,14 +11,16 @@ About me:
 
 ## :star: Languages and Tools:
 
+##          Front:
+
 <p>
-  <img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/375px-HTML5_logo_and_wordmark.svg.png">
-  <img width="10%" height="50px" src="https://github.com/davidvazgon26/davidvazgon26/blob/main/images/css-3.png">
-  <img width="10%" height="50px" src="https://github.com/davidvazgon26/davidvazgon26/blob/main/images/js.png">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
-  <img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/material-ui-1.svg">
-  <br />
+  <img width="10%" src="https://github.com/davidvazgon26/davidvazgon26/blob/main/images/html-5.png">
+  <img width="10%" src="https://github.com/davidvazgon26/davidvazgon26/blob/main/images/css-3.png">
+  <img width="10%" src="https://github.com/davidvazgon26/davidvazgon26/blob/main/images/js.png">
+  <img width="10%" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K">
+</p>
+ <br />
+<p>
   <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
   <img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
