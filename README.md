@@ -1,4 +1,4 @@
-<!-- ![Hi, I'm David](https://github.com/davidvazgon26/davidvazgon26/blob/main/gif/davidvazquez.gif)
+![Hi, I'm David](https://github.com/davidvazgon26/davidvazgon26/blob/main/gif/davidvazquez.gif)
 
 <h2 align="center">
 About me:
@@ -16,9 +16,9 @@ About me:
 ##          Front:
 </br>
 
-<p> -->
-  <!-- <img width="100px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/375px-HTML5_logo_and_wordmark.svg.png"> -->
-  <!-- <img  height="100px" src="https://cdn.froont.com/froont/t6m3pv/_static-uploads/images/thumbnail/web-language.png_256x256.png">
+<p>
+<img width="100px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/375px-HTML5_logo_and_wordmark.svg.png">
+<img  height="100px" src="https://cdn.froont.com/froont/t6m3pv/_static-uploads/images/thumbnail/web-language.png_256x256.png">
   <img  height="100px" src="https://camo.githubusercontent.com/f28b5bc7822f1b7bb28a96d8d09e7d79169248fc/687474703a2f2f692e696d6775722e636f6d2f4a65567164514d2e706e67">
   <img  height="100px" src="https://www.nextontop.com/assets/img/services/web/expressjs.svg">
   <img  height="100px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--rivLfdSN--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gkgxaoegocynro97ipsz.png">
@@ -38,7 +38,7 @@ About me:
   
   <img  height="100px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
   <img height="100px" src="https://icon-library.com/images/postgresql-icon/postgresql-icon-5.jpg">
-  <img height="100px" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg">
+  
   <br />
 </p>
 
@@ -48,9 +48,7 @@ About me:
 
 <h3>Poke App</h3>
 <p>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/home.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/catalogo.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/tablaordenes.png"></a>
+  
 </p>
 
 
@@ -62,7 +60,7 @@ About me:
 <span >
 <a href="https://github.com/davidvazgon26" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
 <a href="mailto:wandacirone@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
-</span> -->
+</span> 
 
 ![Hi, I'm David](https://github.com/davidvazgon26/davidvazgon26/blob/main/gif/davidvazquez.gif)
 
@@ -94,4 +92,5 @@ About me:
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/> </a> </p>
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/> </a> 
+<img height="60" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></p>
