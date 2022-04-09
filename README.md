@@ -1,23 +1,3 @@
-&nbsp;
-
-## :pushpin: My proyects
-
-<h3>Poke App</h3>
-<p>
-  
-</p>
-
-
-<h3>Pending projects to add</h3>
-
-&nbsp;
-
-## :paperclip: How to reach me:
-<span >
-<a href="https://github.com/davidvazgon26" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
-<a href="mailto:wandacirone@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
-</span> 
-
 ![Hi, I'm David](https://github.com/davidvazgon26/davidvazgon26/blob/main/gif/davidvazquez.gif)
 
 <h1 align="center">Hi 👋, I'm David Vazquez</h1>
