@@ -20,8 +20,7 @@ About me:
 <img width="100px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/375px-HTML5_logo_and_wordmark.svg.png">
 <img  height="100px" src="https://cdn.froont.com/froont/t6m3pv/_static-uploads/images/thumbnail/web-language.png_256x256.png">
   <img  height="100px" src="https://camo.githubusercontent.com/f28b5bc7822f1b7bb28a96d8d09e7d79169248fc/687474703a2f2f692e696d6775722e636f6d2f4a65567164514d2e706e67">
-  <img  height="100px" src="https://www.nextontop.com/assets/img/services/web/expressjs.svg">
-  <img  height="100px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--rivLfdSN--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gkgxaoegocynro97ipsz.png">
+  
 </p>
  <br />
  </br>
@@ -92,5 +91,7 @@ About me:
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/> </a> 
-<img height="60" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></p>
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/> </a><img height="60" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg">
+<img  height="100px" src="https://www.nextontop.com/assets/img/services/web/expressjs.svg">
+  <img  height="100px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--rivLfdSN--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gkgxaoegocynro97ipsz.png">
+</p>
