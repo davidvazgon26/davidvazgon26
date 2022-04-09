@@ -12,19 +12,19 @@ About me:
 ## :star: Languages and Tools:
 
 <p>
-  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/375px-HTML5_logo_and_wordmark.svg.png"></code>
-  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/1200px-Devicon-css3-plain.svg.png"></code>
-  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/material-ui-1.svg"></code>
+  <img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/375px-HTML5_logo_and_wordmark.svg.png">
+  <img width="10%" height="50px" src="https://github.com/davidvazgon26/davidvazgon26/blob/main/images/css-3.png">
+  <img width="10%" height="50px" src="https://github.com/davidvazgon26/davidvazgon26/blob/main/images/js.png">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
+  <img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/material-ui-1.svg">
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img  width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/expressjs.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+  <img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+  <img  width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/expressjs.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg">
   <br />
 </p>
 
