@@ -19,10 +19,10 @@ About me:
 
 <p>
   <img width="100px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/375px-HTML5_logo_and_wordmark.svg.png">
-  <img width="100px" height="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdtPCFb10JX5r5_ogWw7rkkhVAA6D3pg0OVr2DAEDek-LjFl3OzgihcoMOIfmgYLbSxoQ&usqp=CAU">
+  <img  height="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdtPCFb10JX5r5_ogWw7rkkhVAA6D3pg0OVr2DAEDek-LjFl3OzgihcoMOIfmgYLbSxoQ&usqp=CAU">
   <img width="100px" height="100px" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K">
-  <img width="100px" height="100px" src="https://camo.githubusercontent.com/f28b5bc7822f1b7bb28a96d8d09e7d79169248fc/687474703a2f2f692e696d6775722e636f6d2f4a65567164514d2e706e67">
-  <img width="100px" height="100px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--rivLfdSN--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gkgxaoegocynro97ipsz.png">
+  <img  height="100px" src="https://camo.githubusercontent.com/f28b5bc7822f1b7bb28a96d8d09e7d79169248fc/687474703a2f2f692e696d6775722e636f6d2f4a65567164514d2e706e67">
+  <img  height="100px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--rivLfdSN--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gkgxaoegocynro97ipsz.png">
 </p>
  <br />
  </br>
