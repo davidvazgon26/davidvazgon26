@@ -67,7 +67,7 @@ About me:
 </span> -->
 
 
-  (https://github.com/davidvazgon26/davidvazgon26/blob/main/gif/davidvazquez.gif)
+  ![Hi, I'm David](https://github.com/davidvazgon26/davidvazgon26/blob/main/gif/davidvazquez.gif)
 <h1 align="center">Hi 👋, I'm David Vazquez</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
