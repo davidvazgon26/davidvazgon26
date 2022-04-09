@@ -30,5 +30,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/> </a><img height="60" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg">
 <img  height="60" src="https://www.nextontop.com/assets/img/services/web/expressjs.svg">
-  <img  height="60" src="https://res.cloudinary.com/practicaldev/image/fetch/s--rivLfdSN--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gkgxaoegocynro97ipsz.png">
+<img  height="60" src="https://res.cloudinary.com/practicaldev/image/fetch/s--rivLfdSN--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gkgxaoegocynro97ipsz.png">
+<img  height="60" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg">
+<img  height="60" src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg">
 </p>
