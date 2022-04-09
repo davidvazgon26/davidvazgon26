@@ -3,7 +3,7 @@
 ![Hi, I'm David](https://github.com/davidvazgon26/davidvazgon26/blob/main/gif/davidvazquez.gif)
 
 <h2 align="center">
-Full Stack Developer :heart: from Argentina to :earth_americas:
+About me:
 </h2>
 
 &nbsp;&nbsp;
@@ -12,7 +12,7 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 ## :star: Languages and Tools:
 
 <p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/375px-HTML5_logo_and_wordmark.svg.png"></code>
   <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/1200px-Devicon-css3-plain.svg.png"></code>
   <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
