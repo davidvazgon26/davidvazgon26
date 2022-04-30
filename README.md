@@ -3,13 +3,20 @@
 <h1 align="center">Hi 👋, I'm David Vazquez</h1>
 <h3 align="center">A passionate full stack developer from México</h3>
 
-- 🔭 I’m currently working on <a href="https://client-concerts-g3y3ufx77-juandls01.vercel.app/" target="blank">[My Ticket]</a>
+- 🔭 I’m currently working on <a href="https://client-concerts-g3y3ufx77-juandls01.vercel.app/" target="blank">**My Ticket** </a> web application built with some partners from Henry's bootcamp (app to end on May 5)
 
 - 👨‍💻 All of my projects are available at [pending], 
 but you can watch a preview in the following links:
 
+    <ul>
+    <li>
     <a href="https://pi-pokemon-nine.vercel.app" target="blank"><p><strong>App Pokemon</strong></p></a>
+    </li>
+    <li>
     <a href="https://pi-food-eta.vercel.app" target="blank"><p><strong>App Food</strong></p></a>
+    </li>
+    </ul>
+    
 
     <p>The repositories are further down in this same document</p>
 
