@@ -3,9 +3,15 @@
 <h1 align="center">Hi 👋, I'm David Vazquez</h1>
 <h3 align="center">A passionate full stack developer from México</h3>
 
-- 🔭 I’m currently working on [e-commerce](pending)
+- 🔭 I’m currently working on <a href="https://client-concerts-g3y3ufx77-juandls01.vercel.app/" target="blank">[My Ticket]</a>
 
-- 👨‍💻 All of my projects are available at [pending](pending)
+- 👨‍💻 All of my projects are available at [pending], 
+but you can watch a preview in the following links:
+
+    <a href="https://pi-pokemon-nine.vercel.app" target="blank"><p><strong>App Pokemon</strong></p></a>
+    <a href="https://pi-food-eta.vercel.app" target="blank"><p><strong>App Food</strong></p></a>
+
+    <p>The repositories are further down in this same document</p>
 
 - 📫 How to reach me **davidvazgon@hotmail.com**
 
