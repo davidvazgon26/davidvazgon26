@@ -1,9 +1,30 @@
 ![Hi, I'm David](https://github.com/davidvazgon26/davidvazgon26/blob/main/gif/davidvazquez.gif)
 
+
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1a8cd8?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davidvazgon)
+[![Hotmail](https://img.shields.io/badge/-Hotmail-006dbf?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:davidvazgon@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juandelossantosdeveloper/)
+
+
+
 <h1 align="center">Hi 👋, I'm David Vazquez</h1>
 <h3 align="center">A passionate full stack developer from México</h3>
 
-- 🔭 I’m currently working on <a href="https://client-concerts-g3y3ufx77-juandls01.vercel.app/" target="blank">**My Ticket** </a> web application built with some partners from Henry's bootcamp (app to end on May 5)
+```javascript
+const David = {
+   code: [Javascript, HTML, CSS],
+   technologies: {
+      frontEnd: ["React", "Redux", "Styled-Components", "Figma"],
+      backEnd: ["Node.js", "Express", "Sequelize"],
+      databases: ["PostgreSQL", "MySQL"],
+      deploy: ["Vercel", "Heroku"]
+   },
+   softSkills: ["Empatía", "Trabajo en equipo", "Creatividad", "Flexibilidad", "Compromiso"]
+};
+```
+
+- 🔭 I’m currently working on <a href="https://client-concerts-g3y3ufx77-juandls01.vercel.app/" target="blank">**My Ticket** </a> web application built with some partners from Henry's bootcamp: @JuanDls01, @Vegajor1112, @Ernest2104, @raffagapro, @nicopalomares
 
 - 👨‍💻 All of my projects are available at [pending], 
 but you can watch a preview in the following links:
@@ -20,15 +41,9 @@ but you can watch a preview in the following links:
 
     <p>The repositories are further down in this same document</p>
 
-- 📫 How to reach me **davidvazgon@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/davidvazgon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidvazgon" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/davidvazgon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davidvazgon/" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
+# Tools:
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a> 
