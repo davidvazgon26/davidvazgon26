@@ -4,7 +4,7 @@
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1a8cd8?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davidvazgon)
 [![Hotmail](https://img.shields.io/badge/-Hotmail-006dbf?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:davidvazgon@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juandelossantosdeveloper/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidvazgon/)
 
 
 
