@@ -36,7 +36,12 @@ but you can watch a preview in the following links:
     <li>
     <a href="https://pi-food-eta.vercel.app" target="blank"><p><strong>App Food</strong></p></a>
     </li>
+     <li>
+    <a href="https://juego-de-memoria-omega.vercel.app/" target="blank"><p><strong>App Juego de Memoria</strong></p></a>
+    </li>
     </ul>
+    
+   
     
 
     <p>The repositories are further down in this same document</p>
