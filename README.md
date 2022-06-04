@@ -1,4 +1,4 @@
-![Hi, I'm David](https://i.imgur.com/gxAKful.jpg)
+![Hi, I'm David](https://i.imgur.com/mUzP4LV.jpg)
 
 
 
