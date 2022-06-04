@@ -1,4 +1,4 @@
-![Hi, I'm David](https://github.com/davidvazgon26/davidvazgon26/blob/main/gif/davidvazquez.gif)
+![Hi, I'm David](https://i.imgur.com/gxAKful.jpg)
 
 
 
