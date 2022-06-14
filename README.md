@@ -26,7 +26,7 @@ const David = {
 
 - 🔭 I’m currently working on <a href="https://client-concerts-g3y3ufx77-juandls01.vercel.app/" target="blank">**My Ticket** </a> web application built with some partners from Henry's bootcamp: @JuanDls01, @Vegajor1112, @Ernest2104, @raffagapro, @nicopalomares
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://portafoliodavid-zeta.vercel.app/), 
+- 👨‍💻 All of my projects are available at **[Portfolio](https://portafoliodavid-zeta.vercel.app/)**, 
 but you can watch a preview in the following links:
 
     <ul>
