@@ -16,7 +16,7 @@ const David = {
    code: [Javascript, HTML, CSS],
    technologies: {
       frontEnd: ["React", "Redux", "Styled-Components", "Figma"],
-      backEnd: ["Node.js", "Express", "Sequelize"],
+      backEnd: ["Node.js", "Express", "Sequelize", "Java", "Spring boot"],
       databases: ["PostgreSQL", "MySQL"],
       deploy: ["Vercel", "Heroku"]
    },
