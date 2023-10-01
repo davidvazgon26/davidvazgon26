@@ -15,9 +15,9 @@
 const David = {
    code: [Javascript, HTML, CSS],
    technologies: {
-      frontEnd: ["React", "Redux", "Styled-Components", "Figma"],
-      backEnd: ["Node.js", "Express", "Sequelize", "Java", "Spring boot"],
-      databases: ["PostgreSQL", "MySQL"],
+      frontEnd: ["React", "Angular", "Redux", "Styled-Components", "Figma"],
+      backEnd: ["Node.js", "Express", "Sequelize", "Java", "Spring boot", "C#" ],
+      databases: ["PostgreSQL", "MySQL", SQL Server],
       deploy: ["Vercel", "Heroku"]
    },
    softSkills: ["Empatía", "Trabajo en equipo", "Creatividad", "Flexibilidad", "Compromiso"]
