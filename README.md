@@ -8,7 +8,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm David Vazquez</h1>
+<h1 align="center">Hi 👋, I'm David Vazquez.</h1>
 <h3 align="center">A passionate full stack developer from México</h3>
 
 ```javascript
