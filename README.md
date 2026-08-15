@@ -1,6 +1,6 @@
 ## Hola, soy David 👋
 
-Desarrollador de software full-stack en el sector transporte y logística, en México.
+Desarrollador de software full-stack en México.
 
 Mi trabajo no es empezar proyectos desde cero: es entrar a sistemas que llevan años —a veces
 décadas— en producción, entender por qué están hechos como están, y cambiarlos sin romper lo
@@ -16,7 +16,6 @@ quien lo va a usar.
 - 🏗️ Me especializo en **mantener y modernizar sistemas heredados**
 - 📊 Llegué al desarrollo desde el análisis de datos, y eso me marcó: antes de proponer una
   solución, quiero ver los datos que la justifican
-- 🌱 Practicando fundamentos y mejorando mi inglés técnico
 - 📫 [LinkedIn](https://www.linkedin.com/in/davidvazgon/) ·
   [Portafolio](https://portafoliodavid-zeta.vercel.app)
 
